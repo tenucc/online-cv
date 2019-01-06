@@ -29,12 +29,36 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Chinese-Mandarin
+        level: Native
 
+      - idiom: Chinese-Cantonese
+        level: Professional
+        
       - idiom: Spanish
         level: Professional
+        
+      - idiom: German
+        level: Professional
+        
+      - idiom: Japanese
+        level: Professional
 
+      - idiom: Korean
+        level: Professional
+        
+      - idiom: French
+        level: Professional
+        
+      - idiom: Russian
+        level: Professional
+        
+      - idiom: Portuguese
+        level: Elementary
+        
+      - idiom: Arabic
+        level: Elementary
+        
     interests:
       - item: Climbing
         link:
