@@ -72,15 +72,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am learning Natural Language Processing.You can [download this free resume/CV template here](www.bing.com).
+      I am learning Natural Language Processing.You can [download this free resume/CV template here]().
       Ich liebe dich.
       
       Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Tsinghua University
+      time: 2019 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,9 +91,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BE in Computer Software Engineering
+      university: Beijing Jiaotong University
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
