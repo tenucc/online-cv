@@ -12,14 +12,15 @@ sidebar:
     avatar: tenu.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: t.y.zhang##outlook.com
+    phone: +86 132 6932 6201
+    website: tenucc.github.io #do not add http://
+    linkedin: tianyu-nlp
+    github: tenucc
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@tianyujimzhang'
+    instagram: tianyunumberone
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
