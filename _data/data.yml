@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -60,13 +60,13 @@ sidebar:
         level: Elementary
         
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Swimming
         link:
 
       - item: Cooking
+        link:
+
+      - item: Vlog
         link:
 
 career-profile:
@@ -107,7 +107,7 @@ education:
 experiences:
     - role: NLP data analyst
       time: 2018.07 - Present
-      company: Startup Hubs, Beijing, CHINA
+      company: Easemob, Beijing, CHINA
       details: |
         Blablabla
 
@@ -141,9 +141,9 @@ experiences:
           - Bullet point
           - Bullet point
           
-    - role: Software Testing intern
+    - role: STDE intern
       time: 2016.07 - 2016.12
-      company: Deloitte, London
+      company: Microsoft, Beijing, CHINA
       details: |
         Blablabla
 
@@ -215,9 +215,20 @@ skills:
 
       - name: Ruby on Rails
         level: 85%
-
-      - name: Sketch & Photoshop
+        
+      - name: Machine Learning
         level: 60%
+        
+      - name: Deep Learning
+        level: 60%
+        
+      - name: Neural Networks
+        level: 60%
+        
+      - name: computational linguistics
+        level: 60%
+        
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Tianyu ZHANG</a>
